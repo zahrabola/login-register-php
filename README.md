@@ -6,8 +6,10 @@ HTML
 CSS
 Bootstrap
 JS
+
 BackEnd:
 core PHP
+
 Database:
 MySQL
 
