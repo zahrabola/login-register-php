@@ -1,5 +1,5 @@
 # login-register-php!
-Login and Registration form Application. Simple Form Handling using PHP & MYSQL.
+Login and Registration form Application. Simple Form Handling and Validation using PHP & MYSQL.
 
 FrontEnd:
 HTML
